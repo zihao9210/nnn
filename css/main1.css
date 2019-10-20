@@ -1,0 +1,25 @@
+@charset 'utf - 8';
+body {
+font-size:16px;
+color:#66ccff;
+}
+h1{text-align:center;font-family:方正姚体;font-size:16px;font-weight:normal;}
+h2{font-size:16px;font-family:黑体;font-weight:normal;color:#099;}
+p{line-height:2em;}
+.nav{background-color:#9F0;margin-left:15%;margin-right:15%;text-align:center;font-size:18px;}
+.copyright{text-align:center;margin-bottom:10px;}
+
+margin-left:auto;}
+div#container{width:80%;
+height:1150px;
+border:50px;
+margin-top:0px;
+margin-bottom:0px;.
+margin-right:auto;
+margin-left:auto;
+padding-top:5px;
+padding-bottom:5px;
+padding-right:20px;
+padding-left:20px;
+min-heught:700px;
+}
